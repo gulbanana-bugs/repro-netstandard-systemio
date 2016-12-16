@@ -1,0 +1,14 @@
+﻿{
+  "runtimes": {
+    "win": {}
+  },
+
+  "frameworks": {
+    "net461": {}
+  },
+
+  "dependencies": {
+    "xunit": "2.1.0",
+    "xunit.runner.visualstudio": "2.1.0"
+  }
+}
